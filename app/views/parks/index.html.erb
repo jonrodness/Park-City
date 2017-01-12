@@ -1,0 +1,29 @@
+<div class="col-md-8 map-container" style="padding-left: 0px;padding-right: 0px; height: 100%">
+  <div id="mapnew" style='width: 100%; height: 800px;'></div>
+</div>
+<div class="col-md-4 whitefullheight">
+
+  <%= render 'sub_navbar' %>
+
+  <h2 style="font-weight: bold"><%= @title %></h2>
+  <div class="container-fluid nopad" id="parkscontainer" style="height: 500px; overflow-y: scroll;overflow-x: hidden;">
+
+    <% @park_list.each do |park| %>
+    
+    <div class="panel panel-default" id="<%= park.id %>">
+      <div class="panel-heading"><%= park.name %></div>
+      <div class="panel-body" style="width:100%">
+        <%= image_tag(park.image_url, width: '100%') %>
+      </div>
+      <div class="panel-body">
+        <%= park.streetNumber %> <%= park.streetName %>
+      </div>
+      <div class="panel-footer"><%= link_to "View Events", this_park_events_path(:park_param => park.id), class: "btn btn-primary btn-xs" %><%= link_to "Create Event", new_event_path(:park_param => park.id), class: "btn btn-primary btn-xs" %></div>
+    </div>
+
+    <% end %>
+
+  </div>
+</div>
+
+<%= render 'map_script' %>

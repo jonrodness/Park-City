@@ -1,0 +1,45 @@
+<div class="col-md-8 map-container" style="padding-left: 0px;padding-right: 0px; height: 100%">
+  <div id="mapnew" style='width: 100%; height: 800px;'></div>
+</div>
+<div class="col-md-4 whitefullheight">
+
+  <%= render 'sub_navbar' %>
+
+  <h2 class = "event-content"> <%= @title %></h2>
+  <p> Tip: Use satellite view, then scroll in to get a bird's eye view of the parks</p>
+  <div>
+    <table class="table table-bordered table-hover event-content">
+      <thead>
+        <tr>
+          <th class="table-header">Title</th>
+          <th class="table-header" style="text-align:center">Park</th>
+          <th class="table-header" style="text-align:center">Date</th>
+          <th class="table-header" style="text-align:center">Time</th>
+          <th class="table-header" style="text-align:center">Spots Available</th>
+        </tr>
+      </thead>
+
+      <tbody class="table-body">
+        <script> toastr.info("%{@user.password}%") </script>
+        <% @events.each do |event| %>
+        <tr>
+          <% if user_signed_in? %>
+          <td class="table-body"><%= link_to event.title, event %></td>
+          <% else %>
+          <td ><%= event.title %></td>
+          <% end %>
+          <% if Park.find_by(id: event.park_id) == nil %>
+          <td class="table-body" col align="center"> Data for park <%= event.park_id %> unavailable</td>
+          <% else %>
+          <td class="table-body" col align="center"><%= Park.find_by(id: event.park_id).name %></td>
+          <% end %>
+          <td class="table-body" col align="center"><%= event.date.to_formatted_s(:long) %></td>
+          <td class="table-body" col align="center"><%= event.time.strftime("%-I:%M %p") %></td>
+          <td class="table-body" col align="center"><%= event.spots - event.users.size %></td>
+        </tr>
+        <% end %>
+      </tbody>
+    </table>
+  </div>
+
+  <%= render 'map_script' %>

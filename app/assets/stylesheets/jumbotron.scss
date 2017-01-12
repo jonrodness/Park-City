@@ -1,0 +1,23 @@
+.jumbotron-custom {
+  padding: 150px 100px;
+  background-position: 100%;
+  text-align: center;
+  font-weight: bold;
+  color: #FFFFFF;
+  background-color: #0C5944 !important;
+  background-size:100%;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.override-background {
+  background-color: rgba(0,0,0,0) !important;
+  margin-top:160px;
+}
+
+video {
+  display: inline-block !important;
+}
+
+.jumbotron .col-md-4 {
+  margin-bottom: 50px;
+}

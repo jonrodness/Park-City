@@ -1,0 +1,46 @@
+.navbarclassic {
+   background-color: #0C5944 !important;
+}
+
+.navbar-intro {
+  background-color: #0C5944 !important;
+  padding-left:10px !important;
+  padding-right:10px !important;
+  padding-top:10px !important;
+  border-bottom: 1px rgb(0, 0, 0) solid;
+}
+
+.navbar-main {
+  padding-left:10px !important;
+  padding-right:10px !important;
+  padding-top:10px !important;
+}
+
+.navbar-text-custom {
+  font-size: 18px;
+  color: white;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: white;
+    font-size: 18px;
+}
+
+.nav.navbar-nav.navbar-left li a {
+    color: white;
+    font-size: 18px;
+}
+
+.navbar-brand {
+  padding: 2px;
+}
+
+ .navbar .navbar-nav > .active{
+    color: #000;
+   background: #d65c14;
+ }
+ .navbar .navbar-nav > .active > a, 
+ .navbar .navbar-nav > .active > a:hover, 
+ .navbar .navbar-nav > .active > a:focus {
+      color: #000;
+ }

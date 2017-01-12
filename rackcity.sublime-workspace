@@ -1,0 +1,1091 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"main",
+				"mainTemplates"
+			],
+			[
+				"templ",
+				"templates"
+			],
+			[
+				"template",
+				"templateUrl"
+			],
+			[
+				"button",
+				"bs3-button:primary	bs3-button-primary"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"bst",
+				"bst-icon	bst-icon"
+			],
+			[
+				"lock",
+				"lockCount"
+			],
+			[
+				"sig",
+				"uthread_cond_signal"
+			],
+			[
+				"VERB",
+				"VERBOSE_PRINT"
+			],
+			[
+				"VER",
+				"VERBOSE_PRINT"
+			],
+			[
+				"uthread_cond",
+				"uthread_cond_wait"
+			],
+			[
+				"producer",
+				"producer_wait_count"
+			],
+			[
+				"NUM_",
+				"NUM_ITERATIONS"
+			],
+			[
+				"smoker",
+				"smoker_conds"
+			],
+			[
+				"waiting",
+				"waiting_to_smoke"
+			],
+			[
+				"wait",
+				"waiting_to_smoke"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"package control instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"new file",
+				"ANF: New File"
+			],
+			[
+				"file",
+				"File: Copy URL"
+			],
+			[
+				"new f",
+				"ANF: New File"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"new ",
+				"ANF: New File"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"oepn",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"sol",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"solar",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"solarie",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"right",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"origa right",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"origami des",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"snippet",
+				"Snippet: bs3-button"
+			],
+			[
+				"sftp",
+				"Snippet: bs3-navbar-fixed-top"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"run",
+				"Coffee: Quick Run Bar"
+			],
+			[
+				"",
+				"BeautifyRuby"
+			],
+			[
+				"instal l",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"install apck",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"solarized",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"isntall pack",
+				"Package Control: Install Package"
+			],
+			[
+				"bs3-jum",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"bs3-html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"html",
+				"Snippet: HTML - Input:text"
+			],
+			[
+				"Snippet: ",
+				"Snippet: HTML - Anchor"
+			],
+			[
+				"solarize",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"solari",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"floobi",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"floobits",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"floob",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"join",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/johnpaulkee/Dropbox/Courses/cs310/Project/uncaught-exception/rackcity"
+	],
+	"file_history":
+	[
+		"/Users/johnpaulkee/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/johnpaulkee/Dropbox/johnpaulkee.github.io/README.md",
+		"/Users/johnpaulkee/Dropbox/Projects/favors/www/js/app.js",
+		"/Users/johnpaulkee/Dropbox/Projects/favors/www/templates/mainTemplates/cards.html",
+		"/Users/johnpaulkee/Dropbox/Projects/favors/www/js/controllers.js",
+		"/Users/johnpaulkee/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/johnpaulkee/Dropbox/cs313/a3/cs313w2_a3_i1u9a_i4u9a/coverpage.txt",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/js/controllers.js",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/templates/mainTemplates/pending.html",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/js/app.js",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/ios/www/templates/mainTemplates/jobs.html",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/templates/mainTemplates/jobs.html",
+		"/Users/johnpaulkee/Dropbox/projects/favors/package.json",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/templates/mainTemplates/tags.html",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/templates/main.html",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/CordovaLib/src/org/apache/cordova/PluginEntry.java",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/ios/build/sharedpch/CordovaLib_Prefix-clqtydsbajvhvfeommvuwzmwxmki/CordovaLib_Prefix.pch.pch.hash-criteria",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/css/style.css",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/lib/ionic/scss/_slide-box.scss",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/lib/angular-ui-router/src/stateDirectives.js",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/templates/signup.html",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/templates/mainTemplates/prefs.html",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/templates/tutorial.html",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/cordova/lib/start-emulator",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/CordovaLib/src/org/apache/cordova/ExposedJsApi.java",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPreferences.java",
+		"/Users/johnpaulkee/Dropbox/projects/favors/hooks/after_prepare/010_add_platform_class.js",
+		"/Users/johnpaulkee/Dropbox/projects/favors/hooks/README.md",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/CordovaLib/src/org/apache/cordova/CordovaResourceApi.java",
+		"/Users/johnpaulkee/Dropbox/projects/favors/config.xml",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/ios/cordova/apple_osx_version",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/CordovaLib/src/com/squareup/okhttp/OkAuthenticator.java",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/CordovaLib/src/com/squareup/okhttp/OkHttpClient.java",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/CordovaLib/src/com/squareup/okhttp/Job.java",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/templates/mainTemplates/cards.html",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/js/main_controllers.js",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/index.html",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/CordovaLib/src/org/apache/cordova/PluginResult.java",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/lib/ionic-contrib-tinder-cards/example/www/config.xml",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/lib/ionic-contrib-tinder-cards/example/www/lib/fonts/ionicons.svg",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/cordova/node_modules/q/benchmark/compare-with-callbacks.js",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/lib/ionic-contrib-tinder-cards/demo/app.css",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/img/formlogo.png",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/cordova/node_modules/shelljs/global.js",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/lib/ionic-contrib-tinder-cards/example/merges/.gitignore",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/ios/favors/main.m",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/CordovaLib/src/org/apache/cordova/SplashScreenInternal.java",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h",
+		"/Users/johnpaulkee/Dropbox/projects/devdactic-mediapopover/scss/ionic.app.scss",
+		"/Users/johnpaulkee/Dropbox/projects/devdactic-mediapopover/hooks/after_prepare/010_add_platform_class.js",
+		"/Users/johnpaulkee/Dropbox/projects/devdactic-mediapopover/www/js/app.js",
+		"/Users/johnpaulkee/Dropbox/projects/devdactic-mediapopover/config.xml",
+		"/Users/johnpaulkee/Dropbox/projects/devdactic-mediapopover/www/lib/ionic/scss/ionicons/_ionicons-font.scss",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/ios/build/emulator/favors.app/PkgInfo",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/ios/build/emulator/favors.app/MainViewController.nib",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/ios/build/emulator/favors.app/Info.plist",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/ios/build/emulator/favors.app/favors",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/ios/build/emulator/favors.app/config.xml",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/ios/.gitignore",
+		"/Users/johnpaulkee/Dropbox/projects/favors/hooks/before_platform_add/init_directories.js",
+		"/Users/johnpaulkee/Dropbox/projects/favors/hooks/after_prepare/020_remove_sass_from_platforms.js",
+		"/Users/johnpaulkee/Dropbox/projects/favors/hooks/after_plugin_rm/010_deregister_plugin.js",
+		"/Users/johnpaulkee/Dropbox/projects/favors/hooks/after_plugin_add/010_register_plugin.js",
+		"/Users/johnpaulkee/Dropbox/projects/favors/hooks/after_platform_add/010_install_plugins.js",
+		"/Users/johnpaulkee/Dropbox/projects/favors/ionic.project",
+		"/Users/johnpaulkee/Dropbox/projects/favors/gulpfile.js",
+		"/Users/johnpaulkee/Dropbox/projects/favors/bower.json",
+		"/Users/johnpaulkee/Dropbox/projects/favors/.gitignore",
+		"/Users/johnpaulkee/Dropbox/projects/favors/.bowerrc",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/lib/angular-animate/angular-animate.min.js",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/js/api.js",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/templates/login.html",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/js/factories.js",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpEngine.java",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/ios/build/favors.build/Debug-iphonesimulator/favors.build/favors-all-target-headers.hmap",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/css/fonts.css",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/StrictLineReader.java",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/SpdyTransport.java",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/templates/help.html",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/cordova/log",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/local.properties",
+		"/Users/johnpaulkee/Dropbox/projects/favors/templates/login.html",
+		"/Users/johnpaulkee/Dropbox/projects/favors/platforms/android/cordova/node_modules/shelljs/.jshintrc",
+		"/Users/johnpaulkee/Dropbox/projects/favors/www/templates/new.html",
+		"/Users/johnpaulkee/Dropbox/projects/favors/templates/new.html",
+		"/Users/johnpaulkee/Dropbox/projects/favors/plugins/android.json",
+		"/Users/johnpaulkee/Dropbox/learning/FirebaseExample/platforms/android/cordova/node_modules/q/benchmark/compare-with-callbacks.js",
+		"/Users/johnpaulkee/Dropbox/learning/FirebaseExample/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h",
+		"/Users/johnpaulkee/Dropbox/learning/FirebaseExample/plugins/org.apache.cordova.console/NOTICE",
+		"/Users/johnpaulkee/Dropbox/learning/FirebaseExample/www/templates/users.html",
+		"/Users/johnpaulkee/Downloads/angularfire.min.js",
+		"/Users/johnpaulkee/Dropbox/cs313/a3/cs313w2_a3_i1u9a_i4u9a/README.txt",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/assets/stylesheets/jumbotron.scss",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/assets/stylesheets/navbar.scss",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/config/initializers/devise.rb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/views/layouts/application.html.erb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/controllers/omniauth_callbacks_controller.rb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/config/routes.rb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/controllers/application_controller.rb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/views/site/homepage.html.erb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/models/user.rb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/assets/stylesheets/application.css",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/assets/javascripts/application.js",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/config/application.rb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/tmp/cache/assets/development/sass/8c08954aedac059c8712c254b97ec2b18bca1008/_component-animations.scssc",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/config.ru",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/db/schema.rb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/db/seeds.rb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/config/boot.rb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/.gitignore",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/README.rdoc",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/tmp/cache/assets/development/sass/8c08954aedac059c8712c254b97ec2b18bca1008/_input-groups.scssc",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/assets/javascripts/site.coffee",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/bin/setup",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/assets/stylesheets/omniauth_callbacks.scss",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/assets/javascripts/omniauth_callbacks.coffee",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/test/controllers/omniauth_callbacks_controller_test.rb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/helpers/omniauth_callbacks_helper.rb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/tmp/cache/assets/development/sass/0028154b7083371b3af72a728d9495e3d0dff266/omniauth_callbacks.scssc",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/config/initializers/mime_types.rb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/views/devise/mailer/confirmation_instructions.html.erb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/views/events/_form.html.erb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/views/devise/shared/_links.html.erb",
+		"/Users/johnpaulkee/Dropbox/cs310/Project/uncaught-exception/rackcity/app/views/devise/mailer/unlock_instructions.html.erb"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"3a",
+			"N",
+			"test_array",
+			"cache_set_add",
+			"center",
+			"item-input",
+			"scroll",
+			"icon",
+			"index",
+			"jobs",
+			"background-color",
+			"pad",
+			"+++++++++++++++",
+			"goToHome",
+			"index",
+			"nav",
+			"background-color",
+			"Preferences",
+			"Prefs",
+			"prefs",
+			"jobs",
+			"cards",
+			"toggleMenu",
+			"pref",
+			"goToMain",
+			" main",
+			"signup",
+			"MainController",
+			"HEAD",
+			"login",
+			"signup",
+			"tutorial",
+			"button",
+			"help",
+			"background",
+			"tutorial",
+			"positive",
+			"tutorial",
+			"Favors",
+			"home",
+			"nav",
+			"home",
+			"stateProvider",
+			"index",
+			"('',",
+			"home",
+			"header",
+			"background-color",
+			"Rack City",
+			"navbar",
+			"Login",
+			"args",
+			"cmdString[]",
+			"cmdString",
+			"args",
+			"esi",
+			"0",
+			"ret",
+			"rep",
+			"ret",
+			"L2",
+			"L4",
+			"sharebox",
+			"post",
+			"copy code",
+			"Copy code",
+			"About Me",
+			"Helvetica",
+			"font-family: 'Helvetica Neue';",
+			"family",
+			"font-family",
+			"hello",
+			"portfolio",
+			"portfolioHeader",
+			"padding",
+			"media",
+			"roboto",
+			"padding",
+			"navbar",
+			"media",
+			"footer",
+			"padding",
+			"padding: ",
+			"pading",
+			"header",
+			"padding",
+			"roboto",
+			"font-f",
+			"font-family",
+			"about",
+			"padding",
+			"about",
+			"background-color",
+			"black",
+			"padding-top",
+			"padding-bottom",
+			"padding",
+			"download",
+			"/*!",
+			"download",
+			"/*!",
+			"Download",
+			"download",
+			"Download",
+			"download",
+			"Download",
+			"download",
+			"Download",
+			"download",
+			"Download",
+			"download",
+			"Download",
+			"height",
+			"name",
+			"href",
+			"*i",
+			"monitor",
+			"has_smoked",
+			"itemCount",
+			"producer_wait",
+			"has_smoked",
+			"NUM_ITERATIONS",
+			"ready//",
+			"ready",
+			"argsa",
+			"waiting_to",
+			"matches",
+			"tobacco"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 104.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "rackcity.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"cards.",
+				"www/templates/mainTemplates/cards.html"
+			],
+			[
+				"app.js",
+				"www/js/app.js"
+			],
+			[
+				"controllers",
+				"www/js/controllers.js"
+			],
+			[
+				"pending",
+				"www/templates/mainTemplates/pending.html"
+			],
+			[
+				"tags",
+				"www/templates/mainTemplates/tags.html"
+			],
+			[
+				"style.css",
+				"www/css/style.css"
+			],
+			[
+				"job",
+				"www/templates/mainTemplates/jobs.html"
+			],
+			[
+				"index",
+				"www/index.html"
+			],
+			[
+				"tutor",
+				"www/templates/tutorial.html"
+			],
+			[
+				"login.",
+				"www/templates/login.html"
+			],
+			[
+				"pend",
+				"www/templates/mainTemplates/pending.html"
+			],
+			[
+				"cards.html",
+				"www/templates/mainTemplates/cards.html"
+			],
+			[
+				"tags.",
+				"www/templates/mainTemplates/tags.html"
+			],
+			[
+				"jobs.h",
+				"www/templates/mainTemplates/jobs.html"
+			],
+			[
+				"pendin",
+				"www/templates/mainTemplates/pending.html"
+			],
+			[
+				"styles",
+				"www/css/style.css"
+			],
+			[
+				"main.html",
+				"www/templates/main.html"
+			],
+			[
+				"s",
+				"www/css/style.css"
+			],
+			[
+				"prefs.",
+				"www/templates/mainTemplates/prefs.html"
+			],
+			[
+				"main.",
+				"www/templates/main.html"
+			],
+			[
+				"pref",
+				"www/templates/mainTemplates/prefs.html"
+			],
+			[
+				"jobs",
+				"www/templates/mainTemplates/jobs.html"
+			],
+			[
+				"login",
+				"www/templates/login.html"
+			],
+			[
+				"apps.java",
+				"platforms/android/CordovaLib/src/org/apache/cordova/CordovaPreferences.java"
+			],
+			[
+				"prefs",
+				"www/templates/mainTemplates/prefs.html"
+			],
+			[
+				"controll",
+				"www/js/controllers.js"
+			],
+			[
+				"jobs.",
+				"www/templates/mainTemplates/jobs.html"
+			],
+			[
+				"job.html",
+				"www/templates/mainTemplates/jobs.html"
+			],
+			[
+				"cards",
+				"www/templates/mainTemplates/cards.html"
+			],
+			[
+				"ind",
+				"www/index.html"
+			],
+			[
+				"signup",
+				"www/templates/signup.html"
+			],
+			[
+				"main",
+				"www/templates/main.html"
+			],
+			[
+				"main.ht",
+				"www/templates/main.html"
+			],
+			[
+				"app.css",
+				"www/lib/ionic-contrib-tinder-cards/demo/app.css"
+			],
+			[
+				"controller",
+				"www/js/controllers.js"
+			],
+			[
+				"index.html",
+				"www/index.html"
+			],
+			[
+				"control",
+				"www/js/controllers.js"
+			],
+			[
+				"apps.",
+				"www/js/app.js"
+			],
+			[
+				"apps.js",
+				"hooks/after_prepare/010_add_platform_class.js"
+			],
+			[
+				"main.h",
+				"www/templates/main.html"
+			],
+			[
+				"controler",
+				"www/js/controllers.js"
+			],
+			[
+				"stye",
+				"www/css/style.css"
+			],
+			[
+				"app",
+				"www/js/app.js"
+			],
+			[
+				"controlelrs",
+				"www/js/controllers.js"
+			],
+			[
+				"login.html",
+				"www/templates/login.html"
+			],
+			[
+				"tutorial",
+				"www/templates/tutorial.html"
+			],
+			[
+				"controllers.js",
+				"www/js/controllers.js"
+			],
+			[
+				"app.j",
+				"www/js/app.js"
+			],
+			[
+				"tutori",
+				"www/templates/tutorial.html"
+			],
+			[
+				"l",
+				"www/templates/login.html"
+			],
+			[
+				"appj",
+				"www/js/app.js"
+			],
+			[
+				"sign",
+				"www/templates/signup.html"
+			],
+			[
+				"index.",
+				"www/index.html"
+			],
+			[
+				"factories.js",
+				"www/js/factories.js"
+			],
+			[
+				"sign.",
+				"www/templates/signup.html"
+			],
+			[
+				"cont",
+				"www/js/controllers.js"
+			],
+			[
+				"contol",
+				"www/js/controllers.js"
+			],
+			[
+				"help.html",
+				"www/templates/help.html"
+			],
+			[
+				"",
+				"bower.json"
+			],
+			[
+				"new.html",
+				"www/templates/new.html"
+			],
+			[
+				"style.",
+				"www/css/style.css"
+			],
+			[
+				"application.html.erb",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"jumbo",
+				"app/assets/stylesheets/jumbotron.scss"
+			],
+			[
+				"homepage.",
+				"app/views/site/homepage.html.erb"
+			],
+			[
+				"devise.rb",
+				"config/initializers/devise.rb"
+			],
+			[
+				"callback",
+				"app/controllers/omniauth_callbacks_controller.rb"
+			],
+			[
+				"application_controll.",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"application.",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"callb",
+				"app/controllers/omniauth_callbacks_controller.rb"
+			],
+			[
+				"routes.rb",
+				"config/routes.rb"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				".rb",
+				"config/routes.rb"
+			],
+			[
+				"application_cont",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"application.html",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"oni",
+				"app/controllers/omniauth_callbacks_controller.rb"
+			],
+			[
+				"omnit",
+				"app/controllers/omniauth_callbacks_controller.rb"
+			],
+			[
+				".html",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"application.rb",
+				"config/application.rb"
+			],
+			[
+				"omni",
+				"app/controllers/omniauth_callbacks_controller.rb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"users",
+				"class Users::OmniauthCallbacksController < Devise:"
+			],
+			[
+				"homepage",
+				"app/views/site/homepage.html.erb"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"application.js",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"hompeage",
+				"app/views/site/homepage.html.erb"
+			],
+			[
+				"print",
+				"printRoutines.c"
+			],
+			[
+				"dis",
+				"disassembler.c"
+			],
+			[
+				"findmax",
+				"code/findmax64.c"
+			],
+			[
+				"css",
+				"css/grayscale.css"
+			],
+			[
+				"grayscale",
+				"css/grayscale.css"
+			],
+			[
+				"gras",
+				"js/grayscale.js"
+			],
+			[
+				"grays",
+				"css/grayscale.css"
+			],
+			[
+				".js",
+				"js/grayscale.js"
+			],
+			[
+				"graysca",
+				"css/grayscale.css"
+			],
+			[
+				"g",
+				"css/grayscale.css"
+			],
+			[
+				"gray",
+				"css/grayscale.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/sublime-projects/cs313a2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,31 @@
+ <script>
+  $(function(){
+    var parks = <%= raw @parksmap %>;
+    var title = "<%= raw @title %>"
+    var arrayparks = <%= raw @parksmap2 %>
+    var typestring = "<%= raw @type %>"
+    handler = Gmaps.build('Google');
+    handler.buildMap({ provider: {styles: mapStyle}, internal: {id: 'mapnew'}}, function(){
+      var directionsDisplay = new google.maps.DirectionsRenderer();
+      var directionsService = new google.maps.DirectionsService();
+      if(navigator.geolocation)
+        navigator.geolocation.getCurrentPosition(displayOnMap);
+      var arrayhash = initializemap(parks, handler);
+      if ( typestring == "index"){
+        markers = handler.addMarkers(arrayhash);
+        handler.bounds.extendWith(markers);
+        markerhandlerparks(markers, arrayparks, directionsService, directionsDisplay);
+      } else {
+        markers = arrayhash;
+        handler.markers = arrayhash.map(function(m) {
+          marker = handler.addMarker(m);
+          marker.serviceObject.set('id', m["id"]);
+          return marker;
+        });
+        markerhandler(handler.markers, arrayparks, directionsService, directionsDisplay);
+        handler.bounds.extendWith(handler.markers);
+      }
+      handler.fitMapToBounds();
+    });
+  })
+</script>

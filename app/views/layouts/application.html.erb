@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Park City!</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+  <link rel="icon" href="http://alfredsin.com/images/tree-favicon.png">  
+  
+</head>
+<body>
+
+  <nav class="navbar navbar-fixed-top navbar-intro" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <%= image_tag("logo.png",class: "navbar-brand") %>
+      </div>
+
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-left">
+          <div class="nav navbar-nav navbar-left">
+
+            <li class="navbar-text-custom"> 
+              <%= link_to root_url do %>
+              <h3 style="margin-top: 0px; margin-bottom: 0px;">
+                Park City
+              </h3> 
+              <% end %>
+            </li>
+
+            <li class="navbar-text-custom"> 
+              <%= link_to events_path do %>
+              <h3 style="margin-top: 0px; margin-bottom: 0px;">
+                Events
+              </h3>
+              <% end %>  
+            </li>
+          </div>
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+          <div class="nav navbar-nav navbar-right">
+            <% if user_signed_in? %>
+            <li> <%= link_to('Sign Out', destroy_user_session_path, :method => :delete) %>  </li>  
+            <% else %>
+            <li> <%= link_to('Sign Up', new_user_registration_path)  %>  </li>
+            <li> <%= link_to('Login', new_user_session_path)  %>  </li>
+            <% end %>
+            <li>  </li>
+
+          </div>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <% if notice %>
+  <p class="alert alert-success"  id="noticer" style="margin-bottom: 0px;"><%= notice %></p>
+  <% end %>
+  <% if alert %>
+  <p class="alert alert-danger"  id="noticer" style="margin-bottom: 0px;"><%= alert %></p>
+  <% end %>
+
+  <%= yield %>
+
+</body>
+
+</html>

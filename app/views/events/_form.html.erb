@@ -1,0 +1,54 @@
+<%= form_for @event do |form| %>
+
+<% if @event.errors.any? %>
+<div id="error_explanation">
+	<ul>
+		<% @event.errors.full_messages.each do |msg| %>
+		<li><%= msg %></li>
+		<% end %>
+	</ul>
+</div>
+<% end %>
+
+<table>
+	<tr>
+		<td><%= form.label :title, "Event Title:" %></td>
+		<td><%= form.text_field :title %></td>
+	</tr>
+
+	<tr>
+		<td><%= form.label :park_id, "Park:" %></td>
+		<td><%= form.collection_select :park_id, @parks.order(:name), :id,:name, {:selected => @park_id }, include_blank: false %></td>
+	</tr>
+	<tr>
+		<td><%= form.label :date, "Event Date:" %></td>
+		<td>
+			<%= form.date_field :date, min: Date.today %>
+		</td>
+	</tr>
+	<tr>
+		<td><%= form.label :time, "Event Time:" %></td>
+		<td>
+			<%= form.time_select :time, :default => @event.time, :ampm => true, :minute_step => 15 %>
+		</td>
+	</tr>
+	<tr>
+		<td><%= form.label :spots, "Number of Spots:" %></td>
+		<td><%= form.number_field :spots, :value => 2, in: 2.0..100.0 %></td>
+	</tr>
+	<tr>
+		<td><%= form.label :description, "Event Description:" %></td>
+		<td><%= form.text_area :description %></td>
+	</tr>	
+</table>
+
+<% if @event.errors[:event].any? %>
+<p class='error messages'>
+	The event <%= @event.errors[:event].to_sentence %>.
+</p>
+<% end %>
+
+</br>
+<%= link_to 'Events', events_path, class: "btn btn-default" %>
+<%= form.submit :class => 'btn btn-success' %>
+<% end %>

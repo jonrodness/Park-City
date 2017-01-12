@@ -1,0 +1,9 @@
+.body {
+  height: 100%;
+}
+
+/*Apparently we need to statically set the height of the map -Alfred*/
+#mapbox {
+  width: 100%;
+  height: calc(100vh - 66px); /* top margin is ~66px*/
+}

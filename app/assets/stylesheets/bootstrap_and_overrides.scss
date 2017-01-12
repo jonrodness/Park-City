@@ -1,0 +1,159 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+#container {
+  position: relative;
+  overflow: hidden;
+}
+
+#container .content {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.transparent {
+  background-color: rgba(0,0,0,0) !important;
+}
+#map {
+  width: 100%; 
+  height: calc(100vh - 50px); /* navbar height is 50px, need the offset */
+}
+
+html {
+  background-color: white;
+}
+
+.alert {
+  top: 67px;
+  position: absolute;
+  z-index: 10000;
+  right: 5px;
+}
+
+.nopad {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-bottom: 1px solid green;
+}
+
+.big-subtitle {
+  font-size: 50px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.big-content {
+  font-size: 30px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.small-subtitle {  
+  font-size: 18px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.btn-custom {
+  color: #ffffff;
+  font-size: 24px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: green;
+  border-color: green;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+}
+
+.btn-padding {
+  margin: 2px;
+}
+
+* {
+  -webkit-border-radius: 0 !important;
+     -moz-border-radius: 0 !important;
+          border-radius: 0 !important;
+}
+.nav > li > a:hover, 
+.nav > li > a:focus {
+  background-color: rgba(0,0,0,0) !important; 
+}
+
+.btn-primary {
+  background-color: white;
+  border-color: green;
+  color: green;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+body {
+  background-color: #0C5944 !important;
+  height: 100vh;
+}
+
+.whitefullheight {
+  background: white;
+  height: 100vh;
+}
+
+.whitehalfheight {
+  background: white;
+  height: 50vh;
+}
+
+.cs310 {
+  padding-top: 50px;
+}
+
+.jumbotron {
+  background-color: white;
+}
+.home-body {
+  font-size: 15pt;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.table-body {
+  padding-top: 12px;
+  padding-bottom:3px;
+}
+
+.table-custom {
+  margin-top: 20px;
+  width: 33%;
+  height: 100%;
+}
+
+.event-content {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.home-button {
+  background-color: white;
+  color: black;
+  opacity: 0.8;
+}
+
+.table-header {
+  font-size: 18px;
+  padding-top: 12px;
+  padding-bottom: 6px;
+}
+
+.forms-width {
+  width: 50%;
+}
+
+.forms-top {
+  margin-top: 80px;
+}
+
+.bodyclass {
+  margin-top: 67px;
+}
